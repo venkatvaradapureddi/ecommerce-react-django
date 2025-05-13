@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 16038561d17ae27a98cf450017159918172800f6
 # ecommerce-react-django
 # 🛒 E-commerce Website Development
 
@@ -30,6 +33,7 @@ The React frontend communicates with a custom-built REST API using DRF to fetch 
 
 ## 📂 Project Structure (Overview)
 
+<<<<<<< HEAD
 =======
 # React + Vite
 
@@ -44,3 +48,5 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 >>>>>>> cafb5ae (Initial commit of MainEcommerce project)
+=======
+>>>>>>> 16038561d17ae27a98cf450017159918172800f6
