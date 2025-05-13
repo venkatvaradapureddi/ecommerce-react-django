@@ -20,7 +20,7 @@ A dynamic and responsive e-commerce website built using **React** for the fronte
 
 **Frontend:**
 - React
-- HTML, CSS, Bootstrap or Tailwind (optional)
+- HTML, CSS, Bootstrap, Java Script
 
 **Backend:**
 - Django
